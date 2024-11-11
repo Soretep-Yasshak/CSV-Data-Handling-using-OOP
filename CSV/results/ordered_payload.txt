@@ -1,0 +1,912 @@
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-2
+Launch Date:      	 21-Mar-07
+Launch Time:      	 01:10
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 DemoSat
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Shutdown During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F9-1
+Launch Date:      	 4-Jun-10
+Launch Time:      	 18:45
+Launch Site:      	 Cape Canaveral AFS LC-40
+Vehicle Type:     	 Falcon 9 (v1.0)
+---Payload---     	 
+ 	Name:    	 Dragon Spacecraft Qualification Unit
+ 	Type:    	 
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Parachute
+Landing Outcome:  	 Failure
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-3
+Launch Date:      	 3-Aug-08
+Launch Time:      	 03:34
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 Trailblazer
+ 	Type:    	 Communication Satellite
+ 	Mass(kg):	 0.0
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 ORS
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Collision During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-5
+Launch Date:      	 10-Sep-09
+Launch Time:      	 15:50
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 MemorialSat
+ 	Type:    	 Human Remains
+ 	Mass(kg):	 12.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 Peteros
+ 	Type:          	 United States
+ 	Country:       	 Business
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Ocean
+Landing Outcome:  	 Success
+----------------------------------------------
+Flight Number:    	 F1-5
+Launch Date:      	 10-Sep-09
+Launch Time:      	 15:50
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 MemorialSat
+ 	Type:    	 Human Remains
+ 	Mass(kg):	 12.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 Peteros
+ 	Type:          	 United States
+ 	Country:       	 Business
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Ocean
+Landing Outcome:  	 Success
+----------------------------------------------
+Flight Number:    	 F1-5
+Launch Date:      	 10-Sep-09
+Launch Time:      	 15:50
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 MemorialSat
+ 	Type:    	 Human Remains
+ 	Mass(kg):	 12.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 Peteros
+ 	Type:          	 United States
+ 	Country:       	 Business
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 Ocean
+Landing Outcome:  	 Success
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-1
+Launch Date:      	 24-Mar-06
+Launch Time:      	 22:30
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 FalconSAT-2
+ 	Type:    	 Research Satellite
+ 	Mass(kg):	 19.5
+ 	Orbit:   	 
+---Customer---    	 
+ 	Name:          	 DARPA
+ 	Type:          	 United States
+ 	Country:       	 Government
+Mission Outcome:  	 Failure
+Failure Reason:   	 Engine Fire During Launch
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
+----------------------------------------------
+Flight Number:    	 F1-4
+Launch Date:      	 28-Sep-08
+Launch Time:      	 23:15
+Launch Site:      	 Marshall Islands
+Vehicle Type:     	 Falcon 1
+---Payload---     	 
+ 	Name:    	 RatSat (DemoSat)
+ 	Type:    	 
+ 	Mass(kg):	 165.0
+ 	Orbit:   	 Low Earth Orbit
+---Customer---    	 
+ 	Name:          	 
+ 	Type:          	 
+ 	Country:       	 
+Mission Outcome:  	 Success
+Failure Reason:   	 
+Landing Type:     	 
+Landing Outcome:  	 
